@@ -580,19 +580,13 @@ box-shadow: 0 0 3px #2980b9!important;
     .slider-section {
         height: 300px;
     }
-    .slider-section .indicators span{
-        width: 12px;
-        height: 12px;
-    }  
+ 
 }
 @media(min-width:759px) and (max-width:991px){
     .slider-section {
         height: 500px;
     }  
-    .slider-section .indicators span{
-        width: 14px;
-        height: 14px;
-    } 
+   
 }
 /*end slider-section*/
 
